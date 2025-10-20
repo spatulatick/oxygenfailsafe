@@ -1,4 +1,6 @@
 {
-  "enabled": true,
+  "enabled": false
+  ,
   "message": "Cloaking has been temporarily disabled by the administrator."
 }
+
